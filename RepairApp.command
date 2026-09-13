@@ -1,6 +1,7 @@
 #!/bin/bash
-# RepairApp.command - Professional Standard Edition v3
-# https://github.com/<tu-usuario>/<tu-repo>
+# RepairApp.command - v3
+# https://github.com/Marstwan/macOS-App-Repair/
+# With love from Catalonia
 
 RESET='\033[0m'
 BOLD='\033[1m'
